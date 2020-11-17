@@ -6,9 +6,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt generate",
-    "start": "nuxt start",
-    "generate": "nuxt build"
+    "build": "nuxt generate"
   },
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
